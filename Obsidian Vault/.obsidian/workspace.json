@@ -11,10 +11,14 @@
             "id": "4a4475465c52d2dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "World/Continents/The Bargelands/People/The Party/Rin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rin"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Ares",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,21 +137,6 @@
             }
           },
           {
-            "id": "83096dc66ec3e8fa",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "World/Continents/The Bargelands/The Bargelands.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of The Bargelands"
-            }
-          },
-          {
             "id": "5d9e4b18c63c7534",
             "type": "leaf",
             "state": {
@@ -156,13 +145,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "83096dc66ec3e8fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Continents/The Bargelands/People/The Party/Rin.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rin"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a4475465c52d2dc",
+  "active": "5d9e4b18c63c7534",
   "lastOpenFiles": [
     "World/World.md",
     "World/Continents/Unclaimed Frontier/Unclaimed Frontier.md",

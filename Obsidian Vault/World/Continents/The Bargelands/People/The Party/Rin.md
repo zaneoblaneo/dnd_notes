@@ -6,4 +6,4 @@ A Bird Person Bard/Warlock
 * Shaggy
 
 # Played By
-#Ares
+#Aries
