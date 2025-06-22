@@ -1,6 +1,6 @@
 {
   "vaultName": "Q's Campaign",
-  "lastExport": 1750629928021,
+  "lastExport": 1750631343057,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -57,8 +57,6 @@
     "World/Continents/The Bargelands/The Bargelands.md",
     "World/Continents/Unclaimed Frontier/Unclaimed Frontier.md",
     "World/World.md",
-    "lib/media/dusty.gif",
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -72,23 +70,9 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/6155340132a851f6089e.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/media/6155340132a851f6089e.svg"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -102,510 +86,397 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/6155340132a851f6089e.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/media/6155340132a851f6089e.svg"
   ],
   "fileInfo": {
     "World/Assets/Dusty.gif": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 2987782,
-      "exportedPath": "world/assets/dusty.gif",
+      "exportedPath": "World/Assets/Dusty.gif",
       "dependencies": []
     },
     "World/Assets/World Map.png": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 5745288,
-      "exportedPath": "world/assets/world-map.png",
+      "exportedPath": "World/Assets/World Map.png",
       "dependencies": []
     },
     "World/Continents/Free Country/Free Country.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 0,
-      "exportedPath": "world/continents/free-country/free-country.html",
+      "exportedPath": "World/Continents/Free Country/Free Country.html",
       "dependencies": []
     },
     "World/Continents/Native Peninsula/Native Peninsula.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 0,
-      "exportedPath": "world/continents/native-peninsula/native-peninsula.html",
+      "exportedPath": "World/Continents/Native Peninsula/Native Peninsula.html",
       "dependencies": []
     },
     "World/Continents/Shak'in/Shak'in.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 0,
-      "exportedPath": "world/continents/shak'in/shak'in.html",
+      "exportedPath": "World/Continents/Shak'in/Shak'in.html",
       "dependencies": []
     },
     "World/Continents/Staufriar/Staufriar.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 0,
-      "exportedPath": "world/continents/staufriar/staufriar.html",
+      "exportedPath": "World/Continents/Staufriar/Staufriar.html",
       "dependencies": []
     },
     "World/Continents/Steelfoot's Range/Steelfoot's Range.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 0,
-      "exportedPath": "world/continents/steelfoot's-range/steelfoot's-range.html",
+      "exportedPath": "World/Continents/Steelfoot's Range/Steelfoot's Range.html",
       "dependencies": []
     },
     "World/Continents/Talikan's Tundra/Talikan's Tundra.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 0,
-      "exportedPath": "world/continents/talikan's-tundra/talikan's-tundra.html",
+      "exportedPath": "World/Continents/Talikan's Tundra/Talikan's Tundra.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/Cultists/Cultists.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 81,
-      "exportedPath": "world/continents/the-bargelands/people/cultists/cultists.html",
+      "exportedPath": "World/Continents/The Bargelands/People/Cultists/Cultists.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/Cultists/Mo Drug (God-like entity).md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 190,
-      "exportedPath": "world/continents/the-bargelands/people/cultists/mo-drug-(god-like-entity).html",
+      "exportedPath": "World/Continents/The Bargelands/People/Cultists/Mo Drug (God-like entity).html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/Cultists/Poppy Sunflower.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 206,
-      "exportedPath": "world/continents/the-bargelands/people/cultists/poppy-sunflower.html",
+      "exportedPath": "World/Continents/The Bargelands/People/Cultists/Poppy Sunflower.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/Mage Hunters/Mage Hunters.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 132,
-      "exportedPath": "world/continents/the-bargelands/people/mage-hunters/mage-hunters.html",
+      "exportedPath": "World/Continents/The Bargelands/People/Mage Hunters/Mage Hunters.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/Mage Hunters/Reckless.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 240,
-      "exportedPath": "world/continents/the-bargelands/people/mage-hunters/reckless.html",
+      "exportedPath": "World/Continents/The Bargelands/People/Mage Hunters/Reckless.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/Mage Hunters/Trifle.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 130,
-      "exportedPath": "world/continents/the-bargelands/people/mage-hunters/trifle.html",
+      "exportedPath": "World/Continents/The Bargelands/People/Mage Hunters/Trifle.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Fillian’s Laughing Mask.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 1552,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/_awol-and-dead/yelric/fillian’s-laughing-mask.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Fillian’s Laughing Mask.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mo Drug Book.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 1012,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/_awol-and-dead/yelric/mo-drug-book.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mo Drug Book.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Persivle.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 149,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/_awol-and-dead/yelric/persivle.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Persivle.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 1059,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/_awol-and-dead/yelric/yelric.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Taku.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 174,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/_awol-and-dead/taku.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Taku.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Zoriah.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 182,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/_awol-and-dead/zoriah.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Zoriah.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/Amnaar/Amnaar.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 115,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/amnaar/amnaar.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/Amnaar/Amnaar.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/Items/The Puzzle Box.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 256,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/items/the-puzzle-box.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/Items/The Puzzle Box.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/Aurelia.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 264,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/aurelia.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/Aurelia.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/Casper.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 149,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/casper.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/Casper.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/Drognor.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 216,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/drognor.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/Drognor.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/Rin.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 164,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/rin.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/Rin.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/Seebo.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 167,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/seebo.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/Seebo.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/Silus.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 115,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/silus.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/Silus.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Party/The Party.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 213,
-      "exportedPath": "world/continents/the-bargelands/people/the-party/the-party.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Party/The Party.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dennis (Deceased).md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 80,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/scraggle/chimeras/dennis-(deceased).html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dennis (Deceased).html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dusty (Deceased).md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 384,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/scraggle/chimeras/dusty-(deceased).html",
-      "dependencies": [
-        "lib/media/dusty.gif"
-      ]
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dusty (Deceased).html",
+      "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Jimmy.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 646,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/scraggle/chimeras/jimmy.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Jimmy.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Simone (Deceased).md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 329,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/scraggle/chimeras/simone-(deceased).html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Simone (Deceased).html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 571,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/scraggle/scraggle.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Crows/Flint Silvershade.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 124,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-crows/flint-silvershade.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Crows/Flint Silvershade.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Crows/Swallow.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 119,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-crows/swallow.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Crows/Swallow.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Crows/The Crows.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 638,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-crows/the-crows.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Crows/The Crows.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Crows/Thekkin.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 123,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-crows/thekkin.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Crows/Thekkin.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Crows/Yuri.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 142,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-crows/yuri.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Crows/Yuri.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Raccoons/Hussle.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 118,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-raccoons/hussle.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Raccoons/Hussle.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Raccoons/Kahn.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 118,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-raccoons/kahn.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Raccoons/Kahn.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Raccoons/Steel.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 118,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-raccoons/steel.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Raccoons/Steel.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/The Raccoons/The Raccoons.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 594,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/the-raccoons/the-raccoons.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/The Raccoons/The Raccoons.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/The Underworld/Keevan Thunderstriker.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 142,
-      "exportedPath": "world/continents/the-bargelands/people/the-underworld/keevan-thunderstriker.html",
+      "exportedPath": "World/Continents/The Bargelands/People/The Underworld/Keevan Thunderstriker.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/Droops.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 572,
-      "exportedPath": "world/continents/the-bargelands/people/droops.html",
+      "exportedPath": "World/Continents/The Bargelands/People/Droops.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/People/Overseer Phillian.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 231,
-      "exportedPath": "world/continents/the-bargelands/people/overseer-phillian.html",
+      "exportedPath": "World/Continents/The Bargelands/People/Overseer Phillian.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/Places/The Petting Zoo.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 286,
-      "exportedPath": "world/continents/the-bargelands/places/the-petting-zoo.html",
+      "exportedPath": "World/Continents/The Bargelands/Places/The Petting Zoo.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/Places/Tower of Mirrors.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 789,
-      "exportedPath": "world/continents/the-bargelands/places/tower-of-mirrors.html",
+      "exportedPath": "World/Continents/The Bargelands/Places/Tower of Mirrors.html",
       "dependencies": []
     },
     "World/Continents/The Bargelands/The Bargelands.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 23,
-      "exportedPath": "world/continents/the-bargelands/the-bargelands.html",
+      "exportedPath": "World/Continents/The Bargelands/The Bargelands.html",
       "dependencies": []
     },
     "World/Continents/Unclaimed Frontier/Unclaimed Frontier.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 0,
-      "exportedPath": "world/continents/unclaimed-frontier/unclaimed-frontier.html",
+      "exportedPath": "World/Continents/Unclaimed Frontier/Unclaimed Frontier.html",
       "dependencies": []
     },
     "World/World.md": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 289,
-      "exportedPath": "world/world.html",
-      "dependencies": [
-        "world/assets/world-map.png"
-      ]
-    },
-    "lib/media/dusty.gif": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 2987782,
-      "exportedPath": "lib/media/dusty.gif",
-      "dependencies": []
-    },
-    "world/assets/world-map.png": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 5745288,
-      "exportedPath": "world/assets/world-map.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "exportedPath": "World/World.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1750629928021,
+      "modifiedTime": 1750631343057,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 35241,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 5674,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 138258,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 262,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1750629928021,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     }
   }
