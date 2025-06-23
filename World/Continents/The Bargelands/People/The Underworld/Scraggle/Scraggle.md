@@ -7,6 +7,6 @@ An old man who started bartering for souls. He's definitely trying to become a L
 ## Chimeras
 * [[Jimmy]]
 * [[Dusty (Deceased)]]
-* [[Dennis (Deceased)]]
+* [[Dennis]]
 * [[Simone (Deceased)]]
 * Approx. 4996 Others

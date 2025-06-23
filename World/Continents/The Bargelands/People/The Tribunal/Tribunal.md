@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-## Description
-
-## Played By
-#Ashton
+## Members
+* [[Dodecahedron]]
+* [[Square]]
+* [[Number 7]]

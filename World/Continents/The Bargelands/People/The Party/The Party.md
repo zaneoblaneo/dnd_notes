@@ -8,6 +8,6 @@
 [[Drognor]]  
 [[Casper]]  
 [[Taku]]  
-[[Amnaar]]  
+[[Amnaar Irsorne]]  
 [[Silus]]  
 

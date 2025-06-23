@@ -8,3 +8,4 @@ Jimmy recently had a falling out with "The Creator" [[Scraggle]] as he doesn't s
 ## Other Names
 * St. Limbolass
 * James for long
+* Jimmy Jim James Jay Jamithon J Crithander Michangelous Gontilliair Mcryan Man Theodore Namir Hagin Scraggle
