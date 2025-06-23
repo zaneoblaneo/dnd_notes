@@ -12,3 +12,5 @@ There've been a couple Raccoons that have been popping by the shop, and I don't 
 
 ## Played by
 #Ashton
+
+![[Yelric.png]]
