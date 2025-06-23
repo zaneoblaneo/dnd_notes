@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World.md",
+                "file": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World"
+              "title": "Yelric"
             }
           }
         ]
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +200,19 @@
   },
   "active": "4a4475465c52d2dc",
   "lastOpenFiles": [
+    "World/Assets/Giant Ape.png",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
+    "World/Continents/The Bargelands/People/The Party/The Party.md",
+    "World/Continents/The Bargelands/People/The Party/Drognor/Drognor.md",
+    "World/Continents/The Bargelands/People/Philbus.md",
+    "World/Continents/The Bargelands/People/Overseer Phillian.md",
+    "World/Continents/The Bargelands/People/The Underworld/Yiveen (The Crawler).md",
+    "World/World.md",
     "World/Session Notes/2025-06-23.md",
     "World/Continents/The Bargelands/People/The Party/Aurelia/Cum Candy.md",
     "Untitled.canvas",
     "World/Session Notes",
     "World/Continents/The Bargelands/People/The Party/Amnaar/Amnaar Irsorne.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
     "World/Continents/The Bargelands/Concepts/The Ocean.md",
     "World/Continents/The Bargelands/People/Droops.md",
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Jimmy.md",
@@ -223,8 +230,6 @@
     "World/Assets/Drognor.jpg",
     "World/Assets/Kasper.jpg",
     "World/Continents/The Bargelands/People/Mage Hunters/Reckless.md",
-    "World/World.md",
-    "World/Assets/Yelric.png",
     "World/Continents/The Bargelands/People/Mage Hunters/Trifle.md",
     "World/Continents/The Bargelands/People/Mage Hunters/Mage Hunters.md",
     "World/Continents/The Bargelands/People/Mage Hunters/Rebuff.md",
@@ -233,11 +238,6 @@
     "World/Continents/The Bargelands/People/The Party/Aurelia/Aurelia.md",
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Cum Water.md",
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Fillian’s Laughing Mask.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Klyde.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mo Drug Book.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Persivle.md",
-    "World/Continents/The Bargelands/People/The Party/Kasper/Kasper.md",
-    "World/Continents/The Bargelands/Places/Hag's Fountain.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal",
     "World/Continents/The Bargelands/People/The Party/Silas Wildwing",
     "World/Continents/The Bargelands/People/The Party/Seebo",

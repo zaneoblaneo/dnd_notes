@@ -9,7 +9,7 @@ There've been a couple Raccoons that have been popping by the shop, and I don't 
 * Dr. Doofus
 ## Related Characters
 * [[Persivle]]
-
+* [[Klyde]]
 ## Played by
 #Ashton
 
