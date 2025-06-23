@@ -1,3 +1,4 @@
 ## Characters
-
+- [[Reflect]]
+- [[Rebuff]]
 ## Places

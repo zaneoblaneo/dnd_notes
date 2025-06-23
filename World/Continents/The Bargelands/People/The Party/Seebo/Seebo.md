@@ -6,5 +6,4 @@ A Gnome Artificer/Wizard
 
 ## Played By
 #Eric
-
 ![[Seebo.jpg]]
