@@ -1,3 +1,3 @@
 --------------------------------------------------------------------------------
-# Description
+## Description
 The Heavy for the [[Mage Hunters]]

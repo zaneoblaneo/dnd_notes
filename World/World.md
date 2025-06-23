@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-# Continents
+## Continents
 * [[Shak'in]]
 * [[Staufriar]]
 * [[The Bargelands]]
@@ -8,5 +8,5 @@
 * [[Unclaimed Frontier]]
 * [[Native Peninsula]]
 * [[Free Country]]
-# World Map
+## World Map
 ![[World Map.png]]

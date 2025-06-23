@@ -30,7 +30,7 @@
   "authorName": "",
   "vaultTitle": "Q's Campaign",
   "exportPreset": "website",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\Users\\Zaneoblaneo\\OneDrive\\DnD\\Q's Campaign\\Html Export",
+  "exportPath": "W:\\.",
   "filesToExport": [
     [
       "all"

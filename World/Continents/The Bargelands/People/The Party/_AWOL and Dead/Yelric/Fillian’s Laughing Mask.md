@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-# Owner:
+## Owner:
 [[Yelric]]
 ## Description
 A brass mask smiling ear-to-ear and crying from laughter with a white cloth hood with a golden trim. When an enemy misses an attack the mask lets out a hardy laugh, and gives you advantage on your next vicious mockery targeting them.

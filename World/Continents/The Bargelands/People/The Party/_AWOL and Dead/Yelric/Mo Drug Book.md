@@ -1,7 +1,8 @@
 --------------------------------------------------------------------------------
-# Owner
+## Owner
 [[Yelric]]
 
+## Description
 Kovara Kiefa Mo Drug keeps coming up in the book. Can't decipher what that
 title is, but I can translate that silver is the purity that comes with
 changes in your life, and copper is sorrow for things that must be done.

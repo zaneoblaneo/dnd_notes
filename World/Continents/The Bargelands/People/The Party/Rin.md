@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
-# Description
+## Description
 A Bird Person Bard/Warlock
 
-# Other Names
+## Other Names
 * Shaggy
 
-# Played By
+## Played By
 #Aries

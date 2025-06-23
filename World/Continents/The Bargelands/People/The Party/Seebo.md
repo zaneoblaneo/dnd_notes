@@ -1,8 +1,8 @@
 --------------------------------------------------------------------------------
-# Items
+## Items
 * [[The Puzzle Box]]
-# Description
+## Description
 A Gnome Artificer/Wizard
 
-# Played By
+## Played By
 #Eric

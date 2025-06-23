@@ -11,10 +11,14 @@
             "id": "4a4475465c52d2dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "World/World.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "World"
             }
           }
         ]
@@ -178,9 +182,6 @@
   },
   "active": "4a4475465c52d2dc",
   "lastOpenFiles": [
-    "World/Continents/The Bargelands/People/The Party/Rin.md",
-    "World/World.md",
-    "World/Continents/Unclaimed Frontier/Unclaimed Frontier.md",
     "World/Continents/The Bargelands/The Bargelands.md",
     "World/Continents/The Bargelands/Places/Tower of Mirrors.md",
     "World/Continents/The Bargelands/Places/The Petting Zoo.md",
@@ -199,11 +200,14 @@
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md",
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Simone (Deceased).md",
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dusty (Deceased).md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dennis (Deceased).md",
     "World/Continents/The Bargelands/People/The Party/The Party.md",
     "World/Continents/The Bargelands/People/The Party/Silus.md",
     "World/Continents/The Bargelands/People/The Party/Seebo.md",
+    "World/Continents/The Bargelands/People/The Party/Rin.md",
     "World/Continents/The Bargelands/People/The Party/Drognor.md",
+    "World/Continents/The Bargelands/People/The Party/Casper.md",
+    "World/Continents/The Bargelands/People/The Party/Aurelia.md",
+    "World/Continents/The Bargelands/People/The Party/Items/The Puzzle Box.md",
     "Obsidian Vault",
     "New folder",
     "World/Continents/Unclaimed Frontier",

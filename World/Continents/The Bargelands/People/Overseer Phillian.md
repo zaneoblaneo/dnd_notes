@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
-# Description
+## Description
 One of the higher up law men of the Bargelands. 
 
-# Home
+## Home
 Lives in the row houses in the Merchant District nearby the Silver Cat Casino. 
