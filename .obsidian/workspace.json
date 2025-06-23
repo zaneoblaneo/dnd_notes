@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Continents/The Bargelands/People/The Underworld/Yiveen (The Crawler).md",
+                "file": "World/Continents/The Bargelands/People/The Party/Kasper/Kasper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yiveen (The Crawler)"
+              "title": "Kasper"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ares",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Continents/The Bargelands/People/The Underworld/Yiveen (The Crawler).md",
+                "file": "World/Continents/The Bargelands/People/The Party/Kasper/Kasper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yiveen (The Crawler)"
+              "title": "Backlinks for Kasper"
             }
           },
           {
@@ -182,44 +182,52 @@
   },
   "active": "4a4475465c52d2dc",
   "lastOpenFiles": [
-    "World/Continents/The Bargelands/People/Cultists/Kovar (God of Cataclysm).md",
-    "World/Continents/The Bargelands/People/The Underworld/Yiveen (The Crawler).md",
-    "World/Continents/The Bargelands/People/The Tribunal/Tribunal.md",
-    "World/Continents/The Bargelands/People/The Tribunal/Square.md",
-    "World/Continents/The Bargelands/People/The Tribunal/Number 7.md",
-    "World/Continents/The Bargelands/People/The Tribunal/Dodecahedron.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Taku.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Persivle.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mo Drug Book.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Klyde.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Fillian’s Laughing Mask.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Cum Water.md",
+    "480021797_1156679228782921_3408911079391357248_n.jpg",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Zoriah.md",
     "World/Continents/The Bargelands/People/The Party/Aurelia/Cum Candy.md",
-    "World/Continents/The Bargelands/People/Overseer Phillian.md",
+    "World/Continents/The Bargelands/People/The Party/Aurelia/Figgus (Deceased).md",
+    "Hagrid-rubeus-hagrid-40663164-1993-2524.webp",
+    "World/Continents/The Bargelands/People/The Party/Rin/Rin.md",
+    "World/Continents/The Bargelands/People/The Party/Drognor/Drognor.md",
+    "467159581_1256547745561290_4976787031018480746_n 1.jpg",
+    "467159581_1256547745561290_4976787031018480746_n.jpg",
+    "World/Continents/The Bargelands/People/The Party/Seebo/Seebo.md",
+    "462648890_1590905525109923_2223974330566770287_n.jpg",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Klyde.md",
+    "462541550_8371821169610459_9100180802193861717_n.png",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Taku.md",
+    "462582285_1229940041571424_1046719503911532656_n.png",
     "World/Continents/The Bargelands/People/Philbus.md",
-    "World/Continents/The Bargelands/Places/Hag's Fountain.md",
+    "462546385_2218302315206367_7213679123816263563_n.png",
     "World/Continents/The Bargelands/People/Mage Hunters/Reckless.md",
-    "World/Continents/The Bargelands/People/Mage Hunters/Reflect.md",
+    "458864614_2335839310091285_9102122139344996815_n.png",
+    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md",
+    "457600310_1078278073890177_3257570783029370201_n.jpg",
     "World/Continents/The Bargelands/People/Mage Hunters/Trifle.md",
+    "458454879_1162579784844644_2439612498404438359_n.png",
+    "World/Continents/The Bargelands/People/Mage Hunters/Reflect.md",
     "World/Continents/The Bargelands/People/Mage Hunters/Rebuff.md",
     "World/Continents/The Bargelands/People/Mage Hunters/Mage Hunters.md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Dennis.md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Margerie.md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Simone (Deceased).md",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Cum Water.md",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Fillian’s Laughing Mask.md",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Persivle.md",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mo Drug Book.md",
+    "World/Continents/The Bargelands/People/The Party/The Party.md",
+    "World/Continents/The Bargelands/People/The Party/Silas Wildwing/Silas Wildwing.md",
+    "World/Continents/The Bargelands/People/The Party/Seebo/Tendy (Deceased).md",
+    "World/Continents/The Bargelands/Places/Hag's Fountain.md",
+    "World/Continents/The Bargelands/Places/The Petting Zoo.md",
+    "World/Continents/The Bargelands/Places/Tower of Mirrors.md",
     "World/Continents/The Bargelands/People/The Tribunal",
-    "World/Continents/The Bargelands/People/The Party/Silus",
+    "World/Continents/The Bargelands/People/The Party/Silas Wildwing",
     "World/Continents/The Bargelands/People/The Party/Seebo",
     "World/Continents/The Bargelands/People/The Party/Rin",
     "World/Continents/The Bargelands/People/The Party/Drognor",
-    "World/Continents/The Bargelands/People/The Party/Casper",
+    "World/Continents/The Bargelands/People/The Party/Kasper",
     "World/Continents/The Bargelands/People/The Party/Aurelia",
     "Obsidian Vault",
     "New folder",
     "World/Continents/Unclaimed Frontier",
-    "World/Assets/World Map.png",
-    "World/Assets/Dusty.gif",
     "Untitled.canvas"
   ]
 }

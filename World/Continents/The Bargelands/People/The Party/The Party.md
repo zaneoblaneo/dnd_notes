@@ -6,8 +6,8 @@
 [[Aurelia]]  
 [[Rin]]  
 [[Drognor]]  
-[[Casper]]  
+[[Kasper]]  
 [[Taku]]  
 [[Amnaar Irsorne]]  
-[[Silus]]  
+[[Silas Wildwing]]  
 

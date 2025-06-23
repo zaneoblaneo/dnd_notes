@@ -10,3 +10,4 @@ An old man who started bartering for souls. He's definitely trying to become a L
 * [[Dennis]]
 * [[Simone (Deceased)]]
 * Approx. 4996 Others
+![[457600310_1078278073890177_3257570783029370201_n.jpg]]
