@@ -7,4 +7,4 @@ A Former high ranking Mage Hunter,
 ## Played By
 #Charlie
 
-![[467159581_1256547745561290_4976787031018480746_n 1.jpg]]
+![[Drognor.jpg]]
