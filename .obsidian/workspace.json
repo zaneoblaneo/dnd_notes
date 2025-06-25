@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
+                "file": "World/ZTemplates/Statblock Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yelric"
+              "title": "Statblock Template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
+                "file": "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yelric"
+              "title": "Backlinks for Scraggle"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
+                "file": "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Yelric"
+              "title": "Outgoing links from Scraggle"
             }
           },
           {
@@ -200,15 +200,20 @@
   },
   "active": "bc5e10aba0a195eb",
   "lastOpenFiles": [
+    "World/Continents/Free Country/Free Country.md",
+    "World/ZTemplates/Statblock Template.md",
+    "World/World.md",
+    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md",
+    "World/ZTemplates",
+    "World/Assets/Scraggle Real.jpg",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/The Ocean.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/Square.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/Number 7.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/Dodecahedron.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/Tribunal.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Zoriah.md",
     "World/Assets/Zoriah Real.png",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md",
     "World/Continents/The Bargelands/People/The Party/Seebo/Seebo.md",
     "World/Assets/Seebo.jpg",
     "World/Assets/Zoriah.png",
@@ -226,9 +231,6 @@
     "World/Continents/The Bargelands/People/The Party/Aurelia/Figgus (Deceased).md",
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Klyde.md",
     "World/Continents/The Bargelands/People/Mage Hunters/Reckless.md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dusty (Deceased).md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dennis.md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Simone (Deceased).md",
     "World/Assets/Giant Ape.png",
     "Untitled.canvas",
     "World/Session Notes",
@@ -238,14 +240,12 @@
     "World/Assets/Jail.png",
     "World/Assets/Philbus.png",
     "World/Assets/Taku.png",
-    "World/Assets/Seebo.jpg",
     "World/Continents/The Bargelands/Concepts/The Tribunal",
     "World/Continents/The Bargelands/People/The Party/Silas Wildwing",
     "World/Continents/The Bargelands/People/The Party/Seebo",
     "World/Continents/The Bargelands/People/The Party/Rin",
     "World/Continents/The Bargelands/People/The Party/Drognor",
     "World/Continents/The Bargelands/People/The Party/Kasper",
-    "World/Continents/The Bargelands/People/The Party/Aurelia",
-    "Obsidian Vault"
+    "World/Continents/The Bargelands/People/The Party/Aurelia"
   ]
 }

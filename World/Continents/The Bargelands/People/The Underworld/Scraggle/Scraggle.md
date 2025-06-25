@@ -11,3 +11,4 @@ An old man who started bartering for souls. He's definitely trying to become a L
 * [[Simone (Deceased)]]
 * Approx. 4996 Others
 ![[Scraggle.jpg]]
+![[Scraggle Real.jpg]]
