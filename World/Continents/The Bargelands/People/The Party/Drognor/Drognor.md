@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 ## Description
-A Bird Person Sorcerer
+Drognor was a bird person Sorcerer
 A Former high ranking Mage Hunter, 
 ## Related Characters
 * [[Reckless]] (Son)

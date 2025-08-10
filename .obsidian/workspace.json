@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0fae0382e7fcec4",
+        "id": "7a32b901fe46485e",
         "type": "tabs",
         "children": [
           {
-            "id": "bc5e10aba0a195eb",
+            "id": "153c9bdc70a4be12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "World/ZTemplates/Statblock Template.md",
-                "mode": "source",
-                "source": false
+                "aFile": "World/Continents/The Bargelands/People/The Party/Drognor/Drognor.md",
+                "bFile": "World/Continents/The Bargelands/People/The Party/Drognor/Drognor.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Statblock Template"
+              "icon": "diff",
+              "title": "Diff: Drognor"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "e4e97c7417245817",
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,39 +198,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc5e10aba0a195eb",
+  "active": "153c9bdc70a4be12",
   "lastOpenFiles": [
-    "World/Continents/Free Country/Free Country.md",
+    "World/Session Notes/8-9-25.md",
+    "World/Continents/The Bargelands/People/The Party/Rin/Rin.md",
+    "World/Continents/The Bargelands/People/Mage Hunters/Rebuff.md",
+    "World/Continents/The Bargelands/People/Mage Hunters/Trifle.md",
+    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Simone (Deceased).md",
+    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Jimmy.md",
+    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dusty (Deceased).md",
+    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dennis.md",
+    "World/Continents/The Bargelands/People/The Party/Drognor/Drognor.md",
     "World/ZTemplates/Statblock Template.md",
-    "World/World.md",
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Scraggle.md",
+    "World/Continents/The Bargelands/People/The Party/Seebo/Seebo.md",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Zoriah.md",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mourne Hope.md",
+    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mir Drug Book.md",
+    "World/Continents/The Bargelands/Concepts/The Tribunal/The Ocean.md",
+    "World/Continents/Free Country/Free Country.md",
+    "World/World.md",
     "World/ZTemplates",
     "World/Assets/Scraggle Real.jpg",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Yelric.md",
-    "World/Continents/The Bargelands/Concepts/The Tribunal/The Ocean.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/Square.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/Number 7.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/Dodecahedron.md",
     "World/Continents/The Bargelands/Concepts/The Tribunal/Tribunal.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Zoriah.md",
     "World/Assets/Zoriah Real.png",
-    "World/Continents/The Bargelands/People/The Party/Seebo/Seebo.md",
     "World/Assets/Seebo.jpg",
     "World/Assets/Zoriah.png",
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Cum Water.md",
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Taku.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mir Drug Book.md",
     "World/Continents/The Bargelands/People/Cultists/Kovara, Kifa Mir Drug (God of Cataclysm).md",
-    "World/Continents/The Bargelands/People/The Party/Items/The Puzzle Box.md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Mourne Hope.md",
-    "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Jimmy.md",
-    "World/Continents/The Bargelands/The Bargelands.md",
-    "World/Continents/The Bargelands/People/Philbus.md",
-    "World/Continents/The Bargelands/People/The Party/Kasper/Kasper.md",
-    "World/Continents/The Bargelands/People/The Party/Drognor/Drognor.md",
-    "World/Continents/The Bargelands/People/The Party/Aurelia/Figgus (Deceased).md",
-    "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Klyde.md",
-    "World/Continents/The Bargelands/People/Mage Hunters/Reckless.md",
     "World/Assets/Giant Ape.png",
     "Untitled.canvas",
     "World/Session Notes",
