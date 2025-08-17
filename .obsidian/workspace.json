@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Session Notes/8-9-25.md",
+                "file": "World/Session Notes/8-16-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-9-25"
+              "title": "8-16-25"
             }
           }
         ]
@@ -176,7 +176,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "templater-obsidian:Templater": false,
@@ -185,6 +184,8 @@
   },
   "active": "153c9bdc70a4be12",
   "lastOpenFiles": [
+    "World/Continents/The Bargelands/People/Mage Hunters/Reckless.md",
+    "World/Session Notes/8-16-25.md",
     "World/Session Notes/8-9-25.md",
     "World/Continents/The Bargelands/People/Cultists/Cultists.md",
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Persivle.md",
@@ -209,8 +210,6 @@
     "World/Continents/The Bargelands/Places/Tower of Mirrors.md",
     "World/World.md",
     "World/Continents/The Bargelands/People/The Party/Seebo/Tendy (Deceased).md",
-    "World/Continents/The Bargelands/Places/Elven High-life.md",
-    "World/Continents/The Bargelands/People/The Party/Amnaar/Amnaar Irsorne.md",
     "World/ZTemplates",
     "World/Assets/Scraggle Real.jpg",
     "World/Assets/Zoriah Real.png",
