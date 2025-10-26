@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a32b901fe46485e",
+        "id": "269a6b8006da6301",
         "type": "tabs",
         "children": [
           {
-            "id": "153c9bdc70a4be12",
+            "id": "37d92a945b4d3d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Session Notes/8-16-25.md",
+                "file": "World/Session Notes/10-25-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-16-25"
+              "title": "10-25-25"
             }
           }
         ]
@@ -182,10 +182,11 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "153c9bdc70a4be12",
+  "active": "37d92a945b4d3d05",
   "lastOpenFiles": [
-    "World/Continents/The Bargelands/People/The Underworld/The Crows/Swallow.md",
     "World/Session Notes/8-16-25.md",
+    "World/Session Notes/10-25-25.md",
+    "World/Continents/The Bargelands/People/The Underworld/The Crows/Swallow.md",
     "World/Continents/The Bargelands/People/Mage Hunters/Reckless.md",
     "World/Session Notes/8-9-25.md",
     "World/Continents/The Bargelands/People/Cultists/Cultists.md",
@@ -209,7 +210,6 @@
     "World/Continents/The Bargelands/Places/The Petting Zoo.md",
     "World/Continents/The Bargelands/Places/Tower of Mirrors.md",
     "World/World.md",
-    "World/Continents/The Bargelands/People/The Party/Seebo/Tendy (Deceased).md",
     "World/ZTemplates",
     "World/Assets/Scraggle Real.jpg",
     "World/Assets/Zoriah Real.png",
