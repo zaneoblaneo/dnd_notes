@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Session Notes/10-25-25.md",
+                "file": "World/Session Notes/11-8-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-25-25"
+              "title": "11-8-25"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,15 +185,18 @@
   },
   "active": "37d92a945b4d3d05",
   "lastOpenFiles": [
-    "World/Session Notes/8-16-25.md",
+    "World/Continents/The Bargelands/People/The Party/Amnaar/Amnaar Irsorne.md",
+    "World/Session Notes/11-8-25.md",
     "World/Session Notes/10-25-25.md",
+    "World/Continents/The Bargelands/People/Cultists/Kovara, Kifa Mir Drug (God of Cataclysm).md",
+    "World/Assets/World Map.png",
+    "World/Session Notes/8-16-25.md",
     "World/Continents/The Bargelands/People/The Underworld/The Crows/Swallow.md",
     "World/Continents/The Bargelands/People/Mage Hunters/Reckless.md",
     "World/Session Notes/8-9-25.md",
     "World/Continents/The Bargelands/People/Cultists/Cultists.md",
     "World/Continents/The Bargelands/People/The Party/_AWOL and Dead/Yelric/Persivle.md",
     "World/Continents/Unclaimed Frontier/Unclaimed Frontier.md",
-    "World/Continents/The Bargelands/People/Cultists/Kovara, Kifa Mir Drug (God of Cataclysm).md",
     "World/Continents/The Bargelands/People/Cultists/Poppy Sunflower.md",
     "World/Continents/The Bargelands/People/The Party/Aurelia/Aurelia.md",
     "World/Continents/The Bargelands/People/The Underworld/Scraggle/Chimeras/Dusty (Deceased).md",
@@ -208,8 +212,6 @@
     "World/Continents/The Bargelands/People/Droops.md",
     "World/Continents/The Bargelands/People/Overseer Phillian.md",
     "World/Continents/The Bargelands/Places/The Petting Zoo.md",
-    "World/Continents/The Bargelands/Places/Tower of Mirrors.md",
-    "World/World.md",
     "World/ZTemplates",
     "World/Assets/Scraggle Real.jpg",
     "World/Assets/Zoriah Real.png",
@@ -223,7 +225,6 @@
     "World/Assets/Reckless.png",
     "World/Assets/Jail.png",
     "World/Assets/Philbus.png",
-    "World/Assets/Taku.png",
     "World/Continents/The Bargelands/Concepts/The Tribunal",
     "World/Continents/The Bargelands/People/The Party/Silas Wildwing",
     "World/Continents/The Bargelands/People/The Party/Seebo",
